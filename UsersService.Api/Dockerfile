@@ -5,11 +5,11 @@ WORKDIR /app
 
 # Copying all the project files from their local directories into their respective directories in the image.
 COPY *.sln .
-COPY UsersService.Api/*.csproj ./UsersService.Api/
-COPY UsersService.Data/*.csproj ./UsersService.Data/
-COPY UsersService.Domain/*.csproj ./UsersService.Domain/
-COPY UsersService.Library/*.csproj ./UsersService.Library/
-COPY UsersService.UnitTests/*.csproj ./UsersService.UnitTests/
+COPY ["UsersService.Api/*.csproj", "./UsersService.Api/"]
+COPY ["UsersService.Data/*.csproj", "./UsersService.Data/"]
+COPY ["UsersService.Domain/*.csproj", "./UsersService.Domain/"]
+COPY ["UsersService.Library/*.csproj", "./UsersService.Library/"]
+COPY ["UsersService.UnitTests/*.csproj", "./UsersService.UnitTests/"]
 
 # Building/resotirng the copied project files in the image.
 RUN dotnet restore
