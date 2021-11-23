@@ -1,0 +1,15 @@
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\UsersServiceData.deps.json
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\UsersServiceData.runtimeconfig.json
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\UsersServiceData.runtimeconfig.dev.json
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\UsersServiceData.dll
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\ref\UsersServiceData.dll
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\bin\Debug\net5.0\UsersServiceData.pdb
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.csproj.AssemblyReference.cache
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.AssemblyInfoInputs.cache
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.AssemblyInfo.cs
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.csproj.CoreCompileInputs.cache
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.dll
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\ref\UsersServiceData.dll
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.pdb
+C:\Users\waful\source\repos\Project\DriveShaftMicroServices\UsersMicroServiceService\UsersServiceApi\UsersServiceData\obj\Debug\net5.0\UsersServiceData.genruntimeconfig.cache
