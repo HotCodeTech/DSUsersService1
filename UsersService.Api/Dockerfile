@@ -5,20 +5,20 @@ WORKDIR /app
 
 # Copying all the project files from their local directories into their respective directories in the image.
 COPY *.sln .
-COPY ["UsersService.Api/*.csproj", "./UsersService.Api/"]
-COPY ["UsersService.Data/*.csproj", "./UsersService.Data/"]
-COPY ["UsersService.Domain/*.csproj", "./UsersService.Domain/"]
-COPY ["UsersService.Library/*.csproj", "./UsersService.Library/"]
-COPY ["UsersService.UnitTests/*.csproj", "./UsersService.UnitTests/"]
+COPY ["..UsersService.Api/*.csproj", "./UsersService.Api/"]
+COPY ["..UsersService.Data/*.csproj", "./UsersService.Data/"]
+COPY ["..UsersService.Domain/*.csproj", "./UsersService.Domain/"]
+COPY ["..UsersService.Library/*.csproj", "./UsersService.Library/"]
+COPY ["..UsersService.UnitTests/*.csproj", "./UsersService.UnitTests/"]
 
 # Building/resotirng the copied project files in the image.
 RUN dotnet restore
 
 # Copying the all dependencies from the local directories to their respective directories in the image.
-COPY UsersService.Api/. ./UsersService.Api/
-COPY UsersService.Data/. ./UsersService.Data/
-COPY UsersService.Domain/. ./UsersService.Domain/
-COPY UsersService.Library/. ./UsersService.Library/
+COPY ..UsersService.Api/. ./UsersService.Api/
+COPY ..UsersService.Data/. ./UsersService.Data/
+COPY ..UsersService.Domain/. ./UsersService.Domain/
+COPY ..UsersService.Library/. ./UsersService.Library/
 
 # Navigating and setting the work directory to the directory where executable project (program) is located within the image.
 WORKDIR /app/UsersService.Api
