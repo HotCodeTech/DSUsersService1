@@ -1,10 +1,3 @@
-is_global = true
-build_property.TargetFramework = net5.0
-build_property.TargetPlatformMinVersion = 
-build_property.UsingMicrosoftNETSdkWeb = 
-build_property.ProjectTypeGuids = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = UsersService.Data
-build_property.ProjectDir = c:\Users\waful\source\Dockerized\UsersServiceApi\UsersService.Data\
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dbb21a2ac3a0d2a587010f92d5d254eef5526e374e56de2076ab69b1734603
+size 475
